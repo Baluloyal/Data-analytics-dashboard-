@@ -26,7 +26,18 @@ dashboard link --
 
   ## Dash baord
 
-  ![WhatsApp Image 2025-04-16 at 11 51 17 PM](https://github.com/user-attachments/assets/8b8ba06a-ac15-4632-99cc-de2bec3863c3)
+![WhatsApp Image 2025-04-16 at 11 52 24 PM](https://github.com/user-attachments/assets/c5379e07-9c9c-4dc9-9b03-67f107aadd9c)
+
+
+##project insight 
+
+1) julio lima  got hihest sales . she did not got any loss
+2) carli ferria and also the same . he did not got any loss
+3) juleta gomes got all loss in the sales
+
+##conclusion 
+This is the sales analytics of the foods & beverages  from 2019 to 2021 . some people tired to sales the products and getting heighest product id 
+
 
   
 
