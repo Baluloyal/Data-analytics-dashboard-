@@ -22,5 +22,11 @@ dashboard link --
 - modelling the data on the model view
 - calculation for the some values amd measure it
 - complete the visulIzation
+
+
+  ## Dash baord
+
+  ![WhatsApp Image 2025-04-16 at 11 51 17 PM](https://github.com/user-attachments/assets/8b8ba06a-ac15-4632-99cc-de2bec3863c3)
+
   
 
